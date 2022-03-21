@@ -1,0 +1,83 @@
+body {
+    background-color: rgb(95, 95, 95);
+    margin: 0;
+}
+
+p {
+    margin: 0;
+    height: 234px;
+    text-align: center;
+}
+
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    width: auto;
+}
+
+li a {
+    display: block;
+    color: rgb(255, 255, 255);
+    padding: 8px 16px;
+    text-decoration: none;
+}
+
+
+/* Change the link color on hover */
+
+li a:hover {
+    color: rgb(255, 255, 255);
+    color: rgb(163, 163, 163);
+}
+
+.font {
+    font-family: 'sans-serif', 'Roboto', sans-serif;
+    font-size: 25px;
+}
+
+.font2 {
+    font-family: 'sans-serif', 'Robotso', sans-serif;
+    font-size: 18px;
+}
+
+.font3 {
+    font-family: 'sans-serif', 'Roboto', sans-serif;
+    font-size: 40px;
+}
+
+#menu {
+    width: 20%;
+    height: 100vh;
+    float: left;
+    background-color: #353535;}
+
+/* #menu2 {
+    width: 5%;
+    height: 100vh;
+    float: right;
+    background-color: #353535;
+} */
+
+
+#cajas {
+    width: 80%;
+    background-color: beige;
+    float: left;
+}
+
+#parrafo1 {
+    background-color: #52c5ff;
+}
+
+#parrafo2 {
+    background-color: #fff700;
+}
+
+#parrafo3 {
+    background-color: #f1671c;
+}
+
+#parrafo4 {
+    background-color: #DA1717;
+}
